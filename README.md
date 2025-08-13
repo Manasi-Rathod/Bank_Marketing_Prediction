@@ -5,13 +5,13 @@ This project analyzes the *Bank Marketing* dataset to understand customer behavi
 
 📂 Project Structure
   
-    Bank_Marketing/
-    │
-    ├── Bank_Marketing.ipynb       # Main Jupyter Notebook with analysis & modeling
-    ├── data/                      # Folder containing dataset(s)
-    ├── requirements.txt           # Python dependencies
-    └── README.md                  # Project documentation
-    
+  Bank_Marketing/
+  │
+  ├── Bank_Marketing.ipynb       # Main Jupyter Notebook with analysis & modeling
+  ├── data/                      # Folder containing dataset(s)
+  ├── requirements.txt           # Python dependencies
+  └── README.md                  # Project documentation
+      
      
 🚀 Getting Started
 
