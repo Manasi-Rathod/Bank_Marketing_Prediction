@@ -1,16 +1,16 @@
 📊 Bank Marketing Campaign Analysis & Prediction
 
-This project analyzes the *Bank Marketing* dataset to understand customer behavior and predict responses to direct marketing campaigns. Using *Python* and *Machine Learning*, we perform *data preprocessing, exploratory data analysis (EDA), feature engineering*, and build predictive models to improve campaign targeting.
+This project analyzes the **Bank Marketing** dataset to understand customer behavior and predict responses to direct marketing campaigns. Using **Python** and **Machine Learning**, we perform **data preprocessing, exploratory data analysis (EDA), feature engineering**, and build predictive models to improve campaign targeting.
 
 
 📂 Project Structure
 
-            Bank_Marketing/
-            │
-            ├── Bank_Marketing.ipynb       # Main Jupyter Notebook with analysis & modeling
-            ├── data/                      # Folder containing dataset(s)
-            ├── requirements.txt           # Python dependencies
-            └── README.md                  # Project documentation
+                  Bank_Marketing/
+                  │
+                  ├── Bank_Marketing.ipynb       # Main Jupyter Notebook with analysis & modeling
+                  ├── data/                      # Folder containing dataset(s)
+                  ├── requirements.txt           # Python dependencies
+                  └── README.md                  # Project documentation
 
      
 🚀 Getting Started
