@@ -11,22 +11,20 @@ This project analyzes the *Bank Marketing* dataset to understand customer behavi
             ├── data/                      # Folder containing dataset(s)
             ├── requirements.txt           # Python dependencies
             └── README.md                  # Project documentation
-      
+
      
 🚀 Getting Started
 
 1️⃣ Clone the repository
 
-  bash
-  git clone https://github.com/your-username/Bank_Marketing.git
+              git clone https://github.com/your-username/Bank_Marketing.git
 
 
 2️⃣ Install dependencies
 
   Make sure you have **Python 3.13.3 installed. Then run:
   
-  bash
-  pip install -r requirements.txt
+              pip install -r requirements.txt
 
 
 *Required Libraries*
